@@ -28,8 +28,7 @@ compiler:
   - clang
 
 os:
-  - osx
-  - linux
+  - windows
 
 addons:
   apt:
